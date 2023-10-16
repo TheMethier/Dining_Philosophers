@@ -4,3 +4,4 @@ Solution for the most famous thread synchronization problem with real-time conso
 + C++ 14
 + threads
 + ncurses.h
++ Debian 12
